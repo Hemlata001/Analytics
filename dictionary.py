@@ -8,3 +8,8 @@ d[50] = 500 # creating
 print(d)
 del d[30] # deleting
 print(d)
+
+# traversing
+numbers = {1:10,2:20,3:30}
+for i in numbers:
+    print(i,":",numbers[i])
