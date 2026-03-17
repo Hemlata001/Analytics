@@ -1,3 +1,4 @@
+# leetcode 1365
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         # pehle hume 2 loop lene padege i j i = 0 se hoga j = i+1 se aur usme chhote ko count kregaa
